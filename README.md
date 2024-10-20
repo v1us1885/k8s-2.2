@@ -61,7 +61,7 @@
 3. Продемонстрировать возможность чтения и записи файла изнутри пода. 
 4. Предоставить манифесты, а также скриншоты или вывод необходимых команд.
 
-### Решение 1
+### Решение 2
 
 [deployment-nfs.yaml](https://github.com/v1us1885/k8s-2.2/blob/main/deployment-nfs.yaml)   
 [nfs-pv.yaml](https://github.com/v1us1885/k8s-2.2/blob/main/nfs-pv.yaml)   
